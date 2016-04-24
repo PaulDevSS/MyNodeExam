@@ -1,0 +1,10 @@
+{
+  "name": "example_1",
+  "version": "0.0.1",
+  "description": "Node.js with Express 4 Tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
