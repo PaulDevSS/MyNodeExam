@@ -1,0 +1,2222 @@
+{
+  "statuses": [
+    {
+      "created_at": "Wed Jan 18 16:12:46 +0000 2017",
+      "id": 821752200082821122,
+      "id_str": "821752200082821122",
+      "text": "@Javi courage",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Javi",
+            "name": "Javi",
+            "id": 7213362,
+            "id_str": "7213362",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 821752090812825601,
+      "in_reply_to_status_id_str": "821752090812825601",
+      "in_reply_to_user_id": 7213362,
+      "in_reply_to_user_id_str": "7213362",
+      "in_reply_to_screen_name": "Javi",
+      "user": {
+        "id": 928839300,
+        "id_str": "928839300",
+        "name": "Willow Puge",
+        "screen_name": "istx25",
+        "location": "",
+        "description": "she/her :: @realm :: open source :: student",
+        "url": "https://t.co/379wvEuy8z",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/379wvEuy8z",
+                "expanded_url": "https://unsplash.com/@istx25",
+                "display_url": "unsplash.com/@istx25",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1118,
+        "friends_count": 314,
+        "listed_count": 191,
+        "created_at": "Tue Nov 06 02:29:47 +0000 2012",
+        "favourites_count": 51090,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 108924,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/818677632866754562/rAKUCMqp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/818677632866754562/rAKUCMqp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/928839300/1484022915",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "d7ffb21e3a0ee55c",
+        "url": "https://api.twitter.com/1.1/geo/id/d7ffb21e3a0ee55c.json",
+        "place_type": "neighborhood",
+        "name": "Downtown",
+        "full_name": "Downtown, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.41896192,
+                37.78151103
+              ],
+              [
+                -122.39558712,
+                37.78151103
+              ],
+              [
+                -122.39558712,
+                37.79382996
+              ],
+              [
+                -122.41896192,
+                37.79382996
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:10:52 +0000 2017",
+      "id": 821751721605103620,
+      "id_str": "821751721605103620",
+      "text": "Mathematical Model Reveals the Patterns of How Innovations Arise https://t.co/XcUckknP0Y",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XcUckknP0Y",
+            "expanded_url": "https://www.technologyreview.com/s/603366/mathematical-model-reveals-the-patterns-of-how-innovations-arise/",
+            "display_url": "technologyreview.com/s/603366/mathe…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1818841,
+        "id_str": "1818841",
+        "name": "Camilo",
+        "screen_name": "i_am_camilo",
+        "location": "94102",
+        "description": "kanban baka",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 996,
+        "friends_count": 2396,
+        "listed_count": 28,
+        "created_at": "Thu Mar 22 00:43:49 +0000 2007",
+        "favourites_count": 8202,
+        "utc_offset": -18000,
+        "time_zone": "America/New_York",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 6065,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/53436696/g_face_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/53436696/g_face_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818841/1399981283",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:10:37 +0000 2017",
+      "id": 821751656857661442,
+      "id_str": "821751656857661442",
+      "text": "Back to Sacramento we go (@ Civic Center/UN Plaza BART Station in San Francisco, CA) https://t.co/XBVQsC9odI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XBVQsC9odI",
+            "expanded_url": "https://www.swarmapp.com/c/kY3meuutkaK",
+            "display_url": "swarmapp.com/c/kY3meuutkaK",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 22952120,
+        "id_str": "22952120",
+        "name": "Jeffery Allen",
+        "screen_name": "jra011464",
+        "location": "San Antonio, TX",
+        "description": "just hanging out...looking to enjoy life and have a good time!!!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 566,
+        "friends_count": 1233,
+        "listed_count": 28,
+        "created_at": "Thu Mar 05 18:02:02 +0000 2009",
+        "favourites_count": 3136,
+        "utc_offset": -21600,
+        "time_zone": "Central Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 13936,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "0099B9",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/618739170/6aito5x26asm28gdh8wt.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/618739170/6aito5x26asm28gdh8wt.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/485837953453662208/uQe-zpaY_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/485837953453662208/uQe-zpaY_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22952120/1364880573",
+        "profile_link_color": "0099B9",
+        "profile_sidebar_border_color": "5ED4DC",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "3C3940",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.77922827,
+          -122.41458625
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.41458625,
+          37.77922827
+        ]
+      },
+      "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.514926,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.833238
+              ],
+              [
+                -122.514926,
+                37.833238
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:10:26 +0000 2017",
+      "id": 821751614046289920,
+      "id_str": "821751614046289920",
+      "text": "We're #hiring! Click to apply: Registered Nurse RN Travel Nurse - https://t.co/h4oQ6Bpo5x #Job #TravelRN #TravelNurse #SanFrancisco, CA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "hiring",
+            "indices": [
+              6,
+              13
+            ]
+          },
+          {
+            "text": "Job",
+            "indices": [
+              90,
+              94
+            ]
+          },
+          {
+            "text": "TravelRN",
+            "indices": [
+              95,
+              104
+            ]
+          },
+          {
+            "text": "TravelNurse",
+            "indices": [
+              105,
+              117
+            ]
+          },
+          {
+            "text": "SanFrancisco",
+            "indices": [
+              118,
+              131
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/h4oQ6Bpo5x",
+            "expanded_url": "http://www.careerarc.com/job-listing/supplemental-health-care-jobs-registered-nurse-rn-travel-nurse-21418693?campaign_id=828&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC",
+            "display_url": "careerarc.com/job-listing/su…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.tweetmyjobs.com\" rel=\"nofollow\">TweetMyJOBS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 22148043,
+        "id_str": "22148043",
+        "name": "TMJ-SFO Nursing Jobs",
+        "screen_name": "tmj_sfo_nursing",
+        "location": "San Francisco, CA",
+        "description": "Follow this account for geo-targeted Healthcare-Nursing job tweets in San Francisco, CA. Need help? Tweet us at @CareerArc!",
+        "url": "https://t.co/DByWt45HZj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/DByWt45HZj",
+                "expanded_url": "http://www.careerarc.com/job-seeker",
+                "display_url": "careerarc.com/job-seeker",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 552,
+        "friends_count": 332,
+        "listed_count": 154,
+        "created_at": "Fri Feb 27 15:05:45 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 799,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "253956",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/315550139/Twitter-BG_2_bg-image.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/315550139/Twitter-BG_2_bg-image.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667619682690596864/DiWVU_ra_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667619682690596864/DiWVU_ra_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22148043/1448007912",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "407DB0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.7890183,
+          -122.3915063
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.3915063,
+          37.7890183
+        ]
+      },
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:09:06 +0000 2017",
+      "id": 821751275502989312,
+      "id_str": "821751275502989312",
+      "text": "Weather now: mist, 48°F, 5 mph south-southeast wind. https://t.co/Jz1tlOOONV",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Jz1tlOOONV",
+            "expanded_url": "http://toplocalnow.com/us/san-francisco?section=weather",
+            "display_url": "toplocalnow.com/us/san-francis…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 60452453,
+        "id_str": "60452453",
+        "name": "San Francisco Now",
+        "screen_name": "SanFranciscoCP",
+        "location": "San Francisco, CA",
+        "description": "Breaking news and weather updates from San Francisco.",
+        "url": "https://t.co/UALF6fMyGJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UALF6fMyGJ",
+                "expanded_url": "http://toplocalnow.com/united-states/california/san-francisco",
+                "display_url": "toplocalnow.com/united-states/…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3509,
+        "friends_count": 13,
+        "listed_count": 250,
+        "created_at": "Mon Jul 27 01:40:54 +0000 2009",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 255459,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/706519331715227648/NCKBo46__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/706519331715227648/NCKBo46__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60452453/1457282327",
+        "profile_link_color": "465AA5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "2A2C31",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.78678264,
+          -122.41487603
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.41487603,
+          37.78678264
+        ]
+      },
+      "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.514926,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.833238
+              ],
+              [
+                -122.514926,
+                37.833238
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:07:27 +0000 2017",
+      "id": 821750860317270017,
+      "id_str": "821750860317270017",
+      "text": "If you wanted comforts out of life, maybe you shouldn’t have gotten in to preaching. That used to be the way of it.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 821748718726586368,
+      "in_reply_to_status_id_str": "821748718726586368",
+      "in_reply_to_user_id": 14284788,
+      "in_reply_to_user_id_str": "14284788",
+      "in_reply_to_screen_name": "zdfs",
+      "user": {
+        "id": 14284788,
+        "id_str": "14284788",
+        "name": "zdfs",
+        "screen_name": "zdfs",
+        "location": "Oakland, CA, USA",
+        "description": "I work @SlackHQ. Martial artist. Amateur photographer. No justice, no peace.",
+        "url": "https://t.co/WznGVMVDxZ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/WznGVMVDxZ",
+                "expanded_url": "https://zdfs.me",
+                "display_url": "zdfs.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 533,
+        "friends_count": 699,
+        "listed_count": 55,
+        "created_at": "Wed Apr 02 16:32:50 +0000 2008",
+        "favourites_count": 1840,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 11045,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FEFEFE",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/712678445956726784/5bYo0aRg.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/712678445956726784/5bYo0aRg.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/814290910158561280/L8XSShF1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/814290910158561280/L8XSShF1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14284788/1481001368",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EAEAEA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "84484af0f9d1cded",
+        "url": "https://api.twitter.com/1.1/geo/id/84484af0f9d1cded.json",
+        "place_type": "neighborhood",
+        "name": "Union Square",
+        "full_name": "Union Square, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.413931,
+                37.780905
+              ],
+              [
+                -122.4020018,
+                37.780905
+              ],
+              [
+                -122.4020018,
+                37.792852
+              ],
+              [
+                -122.413931,
+                37.792852
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:07:17 +0000 2017",
+      "id": 821750818697162752,
+      "id_str": "821750818697162752",
+      "text": "Armed and Dangerous #workout #lift #fitness #fitfam #instafit #gym @ 24 Hour Fitness -… https://t.co/e3AZPmlVuy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "workout",
+            "indices": [
+              20,
+              28
+            ]
+          },
+          {
+            "text": "lift",
+            "indices": [
+              29,
+              34
+            ]
+          },
+          {
+            "text": "fitness",
+            "indices": [
+              35,
+              43
+            ]
+          },
+          {
+            "text": "fitfam",
+            "indices": [
+              44,
+              51
+            ]
+          },
+          {
+            "text": "instafit",
+            "indices": [
+              52,
+              61
+            ]
+          },
+          {
+            "text": "gym",
+            "indices": [
+              62,
+              66
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/e3AZPmlVuy",
+            "expanded_url": "https://www.instagram.com/p/BPaW3pth4cd/",
+            "display_url": "instagram.com/p/BPaW3pth4cd/",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 638543,
+        "id_str": "638543",
+        "name": "Doug Winnie",
+        "screen_name": "sfdesigner",
+        "location": "San Francisco, CA",
+        "description": "Principal Staff Author and Technology Education Evangelist at LinkedIn + https://t.co/g0jDWDF0ls",
+        "url": "https://t.co/OtPxHymvqX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/OtPxHymvqX",
+                "expanded_url": "http://www.linkedin.com/in/sfdesigner",
+                "display_url": "linkedin.com/in/sfdesigner",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/g0jDWDF0ls",
+                "expanded_url": "http://lynda.com",
+                "display_url": "lynda.com",
+                "indices": [
+                  73,
+                  96
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2865,
+        "friends_count": 567,
+        "listed_count": 276,
+        "created_at": "Mon Jan 15 20:39:22 +0000 2007",
+        "favourites_count": 681,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 7795,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "497C9E",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/318039752/body-background.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/318039752/body-background.jpg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/578318369062961152/9SXWfBJg_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/578318369062961152/9SXWfBJg_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/638543/1447453207",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "346AA3",
+        "profile_sidebar_fill_color": "C6D4E3",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.78982597,
+          -122.4024429
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.4024429,
+          37.78982597
+        ]
+      },
+      "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.514926,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.833238
+              ],
+              [
+                -122.514926,
+                37.833238
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:06:58 +0000 2017",
+      "id": 821750739345215488,
+      "id_str": "821750739345215488",
+      "text": "@JWLevitt You can feel free to check out our pricing here, where you will see different plans and costs for each: https://t.co/JiUmoVSl1h",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JWLevitt",
+            "name": "Jonathan Levitt",
+            "id": 385668781,
+            "id_str": "385668781",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JiUmoVSl1h",
+            "expanded_url": "http://bit.ly/2iR0w4a",
+            "display_url": "bit.ly/2iR0w4a",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.zendesk.com\" rel=\"nofollow\">Zendesk</a>",
+      "in_reply_to_status_id": 821748828206497792,
+      "in_reply_to_status_id_str": "821748828206497792",
+      "in_reply_to_user_id": 385668781,
+      "in_reply_to_user_id_str": "385668781",
+      "in_reply_to_screen_name": "JWLevitt",
+      "user": {
+        "id": 14941975,
+        "id_str": "14941975",
+        "name": "Zendesk",
+        "screen_name": "Zendesk",
+        "location": "San Francisco, CA 94103",
+        "description": "Zendesk builds software for better customer relationships. Because relationships are complicated. Expert #CX content: @JoinRelate",
+        "url": "https://t.co/FaHDyV4fD0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/FaHDyV4fD0",
+                "expanded_url": "http://www.zendesk.com",
+                "display_url": "zendesk.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 70790,
+        "friends_count": 1697,
+        "listed_count": 1759,
+        "created_at": "Thu May 29 07:37:49 +0000 2008",
+        "favourites_count": 5795,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 37915,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "78A300",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454378365454012416/foCluGot.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454378365454012416/foCluGot.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/791277935311200257/7OhDQq9H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/791277935311200257/7OhDQq9H_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14941975/1477490365",
+        "profile_link_color": "5099B5",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F5EEDA",
+        "profile_text_color": "3D3E3D",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:06:53 +0000 2017",
+      "id": 821750720856657921,
+      "id_str": "821750720856657921",
+      "text": "Can you recommend anyone for this #job? Extra List Steward - https://t.co/g9tURoIRUS #Labor #SanFrancisco, CA #Hiring",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "job",
+            "indices": [
+              34,
+              38
+            ]
+          },
+          {
+            "text": "Labor",
+            "indices": [
+              85,
+              91
+            ]
+          },
+          {
+            "text": "SanFrancisco",
+            "indices": [
+              92,
+              105
+            ]
+          },
+          {
+            "text": "Hiring",
+            "indices": [
+              110,
+              117
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/g9tURoIRUS",
+            "expanded_url": "http://bit.ly/2g60twY",
+            "display_url": "bit.ly/2g60twY",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.tweetmyjobs.com\" rel=\"nofollow\">TweetMyJOBS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 36176997,
+        "id_str": "36176997",
+        "name": "Four Seasons Jobs",
+        "screen_name": "FourSeasonsJobs",
+        "location": "Worldwide",
+        "description": "Connect with us for exciting career news, opportunities and updates at Four Seasons Hotels and Resorts.",
+        "url": "http://t.co/NQr5a472sr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/NQr5a472sr",
+                "expanded_url": "http://jobs.fourseasons.com/",
+                "display_url": "jobs.fourseasons.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 6582,
+        "friends_count": 137,
+        "listed_count": 271,
+        "created_at": "Tue Apr 28 20:44:25 +0000 2009",
+        "favourites_count": 358,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2145,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/19950981/HR_Words_Rev.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/19950981/HR_Words_Rev.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/712659246781825025/fT9tJrfC_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/712659246781825025/fT9tJrfC_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/36176997/1470055519",
+        "profile_link_color": "C23A18",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "BFD1AE",
+        "profile_text_color": "575257",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.7866209,
+          -122.404745
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.404745,
+          37.7866209
+        ]
+      },
+      "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.514926,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.833238
+              ],
+              [
+                -122.514926,
+                37.833238
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:06:21 +0000 2017",
+      "id": 821750583426252800,
+      "id_str": "821750583426252800",
+      "text": "RT @m_finkbeiner: @tomangell newsletter is 👌🏼 not too long w/ good organization : I'm actually reading this one not just collecting https:/…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "m_finkbeiner",
+            "name": "Michael Finkbeiner",
+            "id": 373532934,
+            "id_str": "373532934",
+            "indices": [
+              3,
+              16
+            ]
+          },
+          {
+            "screen_name": "tomangell",
+            "name": "Tom Angell",
+            "id": 18013279,
+            "id_str": "18013279",
+            "indices": [
+              18,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18013279,
+        "id_str": "18013279",
+        "name": "Tom Angell",
+        "screen_name": "tomangell",
+        "location": "Brooklyn, NY",
+        "description": "15+ years in marijuana reform. Founded Marijuana Majority (@JoinTheMajority). Activist/journalist. Past: @CopsSayLegalize @ssdp https://t.co/w98nPkgj5K. tomangell@gmail",
+        "url": "https://t.co/sZCKQiKGld",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/sZCKQiKGld",
+                "expanded_url": "http://www.MarijuanaMajority.com",
+                "display_url": "MarijuanaMajority.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/w98nPkgj5K",
+                "expanded_url": "http://Marijuana.com",
+                "display_url": "Marijuana.com",
+                "indices": [
+                  128,
+                  151
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4574,
+        "friends_count": 917,
+        "listed_count": 188,
+        "created_at": "Wed Dec 10 05:37:51 +0000 2008",
+        "favourites_count": 869,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15679,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793535012352188417/FQsqTVm__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793535012352188417/FQsqTVm__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18013279/1413665816",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Jan 18 15:56:16 +0000 2017",
+        "id": 821748049311477761,
+        "id_str": "821748049311477761",
+        "text": "@tomangell newsletter is 👌🏼 not too long w/ good organization : I'm actually reading this one not just collecting… https://t.co/C9vMPKhX1J",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "tomangell",
+              "name": "Tom Angell",
+              "id": 18013279,
+              "id_str": "18013279",
+              "indices": [
+                0,
+                10
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/C9vMPKhX1J",
+              "expanded_url": "https://twitter.com/i/web/status/821748049311477761",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                115,
+                138
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 18013279,
+        "in_reply_to_user_id_str": "18013279",
+        "in_reply_to_screen_name": "tomangell",
+        "user": {
+          "id": 373532934,
+          "id_str": "373532934",
+          "name": "Michael Finkbeiner",
+          "screen_name": "m_finkbeiner",
+          "location": "SoMa, San Francisco",
+          "description": "Director of Operations @gtwyinc @gatewayworks : Health & Fitness Geek, #cannathlete, enthusiastic viewer of TV, #cannabis #startups",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 971,
+          "friends_count": 664,
+          "listed_count": 103,
+          "created_at": "Wed Sep 14 19:05:54 +0000 2011",
+          "favourites_count": 743,
+          "utc_offset": -18000,
+          "time_zone": "Quito",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 2060,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "709397",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/758749516849754117/FVSlHhQu_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/758749516849754117/FVSlHhQu_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/373532934/1478624007",
+          "profile_link_color": "FF3300",
+          "profile_sidebar_border_color": "86A4A6",
+          "profile_sidebar_fill_color": "A0C5C7",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:06:10 +0000 2017",
+      "id": 821750540094885889,
+      "id_str": "821750540094885889",
+      "text": "Refreshingly compact. #24HourChallenge #iPhone4s @ San Francisco, California https://t.co/2gjIMdq8z3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "24HourChallenge",
+            "indices": [
+              22,
+              38
+            ]
+          },
+          {
+            "text": "iPhone4s",
+            "indices": [
+              39,
+              48
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2gjIMdq8z3",
+            "expanded_url": "https://www.instagram.com/p/BPaWvrfgoOa/",
+            "display_url": "instagram.com/p/BPaWvrfgoOa/",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1582221240,
+        "id_str": "1582221240",
+        "name": "Gordon Mak",
+        "screen_name": "alittlegordie",
+        "location": "San Francisco, CA",
+        "description": "Photography | Fitness | Gadgets | Food | Customer EDU @LinkedIn | IG: SuddenStops",
+        "url": "https://t.co/XYtOiask06",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/XYtOiask06",
+                "expanded_url": "https://www.flickr.com/photos/maktrak/",
+                "display_url": "flickr.com/photos/maktrak/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 207,
+        "friends_count": 240,
+        "listed_count": 48,
+        "created_at": "Wed Jul 10 05:03:45 +0000 2013",
+        "favourites_count": 187,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2532,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519342382555201536/cDQ58qna.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519342382555201536/cDQ58qna.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/819039974183968769/ceJmx49j_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/819039974183968769/ceJmx49j_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1582221240/1412655557",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.775,
+          -122.418
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.418,
+          37.775
+        ]
+      },
+      "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.514926,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.833238
+              ],
+              [
+                -122.514926,
+                37.833238
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:06:00 +0000 2017",
+      "id": 821750496020938754,
+      "id_str": "821750496020938754",
+      "text": "洗濯代行サービス「Washio」の倒産にみる、オンデマンドサービスの限界 https://t.co/OupAeTyhho 参入する市場がオンデマンドでなくてもイケていて、しかも既存プレーヤーがボッタクリしてなければそりゃ新規参入しても自滅です罠。",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OupAeTyhho",
+            "expanded_url": "http://www.gizmodo.jp/2017/01/why-on-demand-service-are-flopping-like-crazy.html",
+            "display_url": "gizmodo.jp/2017/01/why-on…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6525302,
+        "id_str": "6525302",
+        "name": "Masayoshi Nakamura",
+        "screen_name": "masayang",
+        "location": "Downtown San Francisco, CA ",
+        "description": "A bicycle bum. I rant. RTs are not necessarily endorsements\n\n矢上台工業専門学校修了\nProfile photo credit: David Cheung",
+        "url": "http://t.co/0kzc7oMsZs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/0kzc7oMsZs",
+                "expanded_url": "http://www.masasushi.com/blog/2012/08/04/582/",
+                "display_url": "masasushi.com/blog/2012/08/0…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3044,
+        "friends_count": 741,
+        "listed_count": 341,
+        "created_at": "Sat Jun 02 16:42:24 +0000 2007",
+        "favourites_count": 18093,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 106971,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "642D8B",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000005590176/516aa524d7a7d89d65ae97009a573146.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000005590176/516aa524d7a7d89d65ae97009a573146.jpeg",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/378800000467354440/672acebd674928d9286e7fb477de535b_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000467354440/672acebd674928d9286e7fb477de535b_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6525302/1399401937",
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "7AC3EE",
+        "profile_text_color": "3D1957",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    {
+      "created_at": "Wed Jan 18 16:05:17 +0000 2017",
+      "id": 821750317540777984,
+      "id_str": "821750317540777984",
+      "text": "@jeffiel Congratulations 🎉 That is no small feat",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jeffiel",
+            "name": "Jeff Lawson",
+            "id": 14651539,
+            "id_str": "14651539",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 821745561028046848,
+      "in_reply_to_status_id_str": "821745561028046848",
+      "in_reply_to_user_id": 14651539,
+      "in_reply_to_user_id_str": "14651539",
+      "in_reply_to_screen_name": "jeffiel",
+      "user": {
+        "id": 930473828,
+        "id_str": "930473828",
+        "name": "Michael Ian Curry",
+        "screen_name": "kernelcurry",
+        "location": "San Francisco, CA",
+        "description": "Can count to four like a pro. Can't tell the difference between my pups hair and mine. Bang head against keyboard till cool things appear.",
+        "url": "https://t.co/Blltp8LyZ1",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Blltp8LyZ1",
+                "expanded_url": "http://kernelcurry.com",
+                "display_url": "kernelcurry.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 191,
+        "friends_count": 135,
+        "listed_count": 37,
+        "created_at": "Tue Nov 06 20:20:55 +0000 2012",
+        "favourites_count": 1734,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3499,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/458706843280216064/wW68xhpM_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/458706843280216064/wW68xhpM_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/930473828/1398199342",
+        "profile_link_color": "1D252C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2b6ff8c22edd9576",
+        "url": "https://api.twitter.com/1.1/geo/id/2b6ff8c22edd9576.json",
+        "place_type": "neighborhood",
+        "name": "SoMa",
+        "full_name": "SoMa, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.42284884,
+                37.76893497
+              ],
+              [
+                -122.3964,
+                37.76893497
+              ],
+              [
+                -122.3964,
+                37.78752897
+              ],
+              [
+                -122.42284884,
+                37.78752897
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:05:12 +0000 2017",
+      "id": 821750293708738560,
+      "id_str": "821750293708738560",
+      "text": "@AzbanCoon you would be my sugar daddy? Right right?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AzbanCoon",
+            "name": "The Rabid Bostonian",
+            "id": 2750866665,
+            "id_str": "2750866665",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 821748725848690688,
+      "in_reply_to_status_id_str": "821748725848690688",
+      "in_reply_to_user_id": 2750866665,
+      "in_reply_to_user_id_str": "2750866665",
+      "in_reply_to_screen_name": "AzbanCoon",
+      "user": {
+        "id": 17806408,
+        "id_str": "17806408",
+        "name": "MidWuff FurCoon",
+        "screen_name": "laveur",
+        "location": "Richmond, CA",
+        "description": "Software Engineer, Geek, and Aspiring DJ. Totally a dork! @pacanthro Con-Chair 2017. AD: @ewaste_panda",
+        "url": "https://t.co/EiIJqmaCQw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/EiIJqmaCQw",
+                "expanded_url": "http://www.moltenvisuals.com",
+                "display_url": "moltenvisuals.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 964,
+        "friends_count": 980,
+        "listed_count": 27,
+        "created_at": "Tue Dec 02 12:41:18 +0000 2008",
+        "favourites_count": 39911,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 31716,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/775735012914106369/bGqPi7C6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/775735012914106369/bGqPi7C6_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17806408/1465953143",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "90942366be65cd2c",
+        "url": "https://api.twitter.com/1.1/geo/id/90942366be65cd2c.json",
+        "place_type": "neighborhood",
+        "name": "The Embarcadero",
+        "full_name": "The Embarcadero, San Francisco",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.40679608,
+                37.77841098
+              ],
+              [
+                -122.38440912,
+                37.77841098
+              ],
+              [
+                -122.38440912,
+                37.80588798
+              ],
+              [
+                -122.40679608,
+                37.80588798
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jan 18 16:03:02 +0000 2017",
+      "id": 821749748382240768,
+      "id_str": "821749748382240768",
+      "text": "San Francisco CA Wed Jan 18th AM Forecast: TODAY Chance Of T-Storm Hi 55 TONIGHT Chance Of T-Storm Lo 49",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://towntweet.com/\" rel=\"nofollow\">TownTweet</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 337490953,
+        "id_str": "337490953",
+        "name": "San Francisco, CA",
+        "screen_name": "_SanFranciscoCA",
+        "location": "San Francisco, CA",
+        "description": "Follow us for the latest news, weather, events and emergency notices for San Francisco, California",
+        "url": "http://t.co/v7GWwpiUJL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/v7GWwpiUJL",
+                "expanded_url": "http://countyca.net/san_francisco/san_francisco/",
+                "display_url": "countyca.net/san_francisco/…",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 33,
+        "friends_count": 12,
+        "listed_count": 1,
+        "created_at": "Mon Jul 18 03:25:54 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1437,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1463127058/san_francisco_ca_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1463127058/san_francisco_ca_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.7795,
+          -122.4195
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.4195,
+          37.7795
+        ]
+      },
+      "place": {
+        "id": "5a110d312052166f",
+        "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+        "place_type": "city",
+        "name": "San Francisco",
+        "full_name": "San Francisco, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.514926,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.708075
+              ],
+              [
+                -122.357031,
+                37.833238
+              ],
+              [
+                -122.514926,
+                37.833238
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.039,
+    "max_id": 821752200082821122,
+    "max_id_str": "821752200082821122",
+    "next_results": "?max_id=821749748382240767&q=&geocode=37.781157%2C-122.398720%2C1mi&include_entities=1",
+    "query": "",
+    "refresh_url": "?since_id=821752200082821122&q=&geocode=37.781157%2C-122.398720%2C1mi&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
